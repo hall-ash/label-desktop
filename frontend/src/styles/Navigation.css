@@ -1,0 +1,33 @@
+/*
+.navbar {
+  background-color: #343a40;
+}
+
+.navbar-brand, .nav-link {
+  color: #ffffff !important;
+}
+
+.nav-link:hover {
+  color: #adb5bd !important;
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav-item {
+  margin-left: 1rem; 
+}
+*/
+
+.settings-btn {
+	text-decoration: none !important;
+	color: inherit !important;
+}
+
+.settings-btn:visited {
+	color: inherit !important; 
+}
+
+

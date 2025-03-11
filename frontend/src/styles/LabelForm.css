@@ -1,0 +1,46 @@
+.label-form-container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.form-label {
+  font-weight: bold;
+  color: #495057;
+}
+
+.form-input, .form-textarea, .form-file {
+  width: 100%;
+}
+
+.form-input-narrow {
+  width: 100px;
+}
+
+.form-check-group {
+  display: flex;
+  align-items: center;
+}
+
+.form-check-label {
+  margin-left: 8px;
+  color: #495057;
+}
+
+.form-text-info {
+  color: #6c757d;
+}
+
+.form-submit-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.loading-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
